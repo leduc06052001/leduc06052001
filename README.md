@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is DUC
+Welcome to my Github
 <!--
 **leduc06052001/leduc06052001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
